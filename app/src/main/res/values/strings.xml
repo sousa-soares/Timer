@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="hint_minute">Minutos</string>
+    <string name="message_minutes">Insira um valor</string>
+
+    <string name="state_stopped">Parado</string>
+    <string name="state_work">Trabalho</string>
+    <string name="state_short_rest">Descanso Curto</string>
+    <string name="state_long_rest">Descanso Longo</string>
+    <string name="state_paused">Pausado</string>
+</resources>
